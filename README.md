@@ -3,7 +3,7 @@ For code<br>
 For review<br>
 Non commercial<br>
 Non corporate
-<br><br>
+<hr>
 
 <em>License</em>
 
@@ -20,7 +20,7 @@ TERMS AND CONDITIONS.
 
 <ol>
 <li><strong>Definitions</strong>
-<ol type="a">
+<ol>
 <li><strong>"Collective Work"</strong>
 means a work, such as a digital archive or a software repository, in which
 the Work in its entirety in unmodified form, along with a number of other
@@ -97,7 +97,7 @@ of the copyright owner under copyright law or other applicable laws.
 Subject to the terms and conditions of this License, Licensor hereby grants
 You a worldwide, royalty-free, non-exclusive license to exercise the rights
 in the Work as stated below:
-<ol type="a">
+<ol>
 <li>
 to reproduce the Work, to incorporate the Work into one or more 
 Collective Works, and to reproduce the Work as incorporated in the 
@@ -123,7 +123,7 @@ as of the date such litigation is filed.
 The license granted in Section 3 above is expressly made subject to
 and limited by the following restrictions:
 
-<ol type="a">
+<ol>
 <li>
 <b>No Functional Use.</b> The Work may not be used in any way that causes a software service, product, or program
 to be able to function. Should removal of the work from any digital device cause any of the
@@ -170,7 +170,7 @@ exchange of copyrighted works.
 <li><b>No Corporate Use.</b>
 Distribution of the Work for any purpose internally within a corporation is expressly forbidden.
 This includes but is not limited to:
-<ol type='I'>
+<ol>
 <li>sharing the Work for the purpose of analysis and replication of its abilities
 <li>measuring performance of the code to optimize corporate algorithms
 <li>comparing the Work in any way against corporate algorithms
@@ -194,18 +194,18 @@ purpose shall be considered copying of the work by the company. While under empl
 rights otherwise granted to an individual ( such as before their employee or during non work hours )
 shall be considered to not apply while engaged in company directed activities.
 
-<p>This section (5d) shall not apply to entities which Licensor has expressly and intentionally uploaded
-the Work to for the purpose of distribution, with the exception that activities 5dI-5dV shall remain
+<p>This section (5.iv) shall not apply to entities which Licensor has expressly and intentionally uploaded
+the Work to for the purpose of distribution, with the exception that activities 5.iv.a-5.iv.e shall remain
 restricted.
 
 <p>The prohibited moment of copying may be specifically noted to be when the transfer of the Work
 goes into system memory or storage of a system owned by the prohibited entity. Various entities
 allowing the internet itself to function, such as ISPs and the internet backbone, shall be expressly
 allowed to cache and transfer the Work, but shall remain restricted from the behaviors described in
-5dI-5dVII.
+5.iv.a-5.iv.g.
 
 <p>Review of the Work by corporate employees shall be permitted for the sole purpose of
-consideration of Original Author for employment. The behaviors described in 5dI-5dV shall remain
+consideration of Original Author for employment. The behaviors described in 5.iv.a-5.iv.e shall remain
 restricted, as well as any other corporate purpose not primarily aimed at employment consideration.
 
 <li><b>Attribution.</b>
@@ -242,7 +242,7 @@ NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE,
 EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. 
 
 <li><strong>Termination</strong>
-<ol type="a">
+<ol>
 <li>
 The rights granted by the License will terminate automatically upon any breach
 by You of the terms of this License. Restrictions of the License shall
@@ -282,7 +282,7 @@ mechanism.
 </ol>
 
 <li><strong>Miscellaneous</strong>
-<ol type="a">
+<ol>
 <li><b>Share Alike.</b>
 Each time You distribute the Work or a 
 Collective Work, the Licensor offers to the recipient a license to the 
@@ -310,4 +310,3 @@ here. This License may not be modified without the mutual written
 agreement of the Licensor and You.
 </ol>
 </ul>
-```
