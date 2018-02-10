@@ -1,0 +1,362 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <title>Dry Ark Public LIcense</title>
+    <style>
+        body {  
+            margin:0px;
+            padding:0px;
+            font-family:verdana,arial,helvetica,sans-serif;
+            text-align:center;
+            font-size:11px; }
+        ol {
+            padding-left: 30px; }
+        li {
+            padding-left:5px;
+            margin-bottom:12px; }
+        #deed {
+            padding:15px;
+            margin:20px auto;
+            background:#f7f7f7;
+            border:3px groove #333;
+            text-align:left;
+            width:584px; }
+        #content {
+            width:584px; }
+        .fineprint {
+            border:1px solid black;
+            padding:8px;
+            background:#ffffff;
+            text-align:justify; }
+        .text, li {
+            font-family:verdana,sans-serif;
+            line-height:140%;
+            text-align:left; }
+    </style>
+</head>
+<body>
+<div id="deed">
+
+<div style="display:inline-block; position: relative; left: 50%; margin-left: -100px">
+    <b>DRY ARK PUBLIC LICENSE ( DAPL )</b><br>
+    For code<br>
+    For review<br>
+    Non commercial<br>
+    Non corporate
+</div>
+<br><br>
+
+<div class="text">
+<div class="fineprint" style="background:none;">
+<em>License</em>
+
+<p>THE WORK (AS DEFINED BELOW) IS PROVIDED UNDER THE TERMS OF THIS 
+DRY ARK PUBLIC LICENSE ("DAPL" OR "LICENSE"). THE WORK IS 
+PROTECTED BY COPYRIGHT AND/OR OTHER APPLICABLE LAW. ANY USE OF THE WORK 
+OTHER THAN AS AUTHORIZED UNDER THIS LICENSE OR COPYRIGHT LAW IS 
+PROHIBITED.
+
+<p>BY EXERCISING ANY RIGHTS TO THE WORK PROVIDED HERE, YOU ACCEPT AND 
+AGREE TO BE BOUND BY THE TERMS OF THIS LICENSE. THE LICENSOR GRANTS YOU 
+THE RIGHTS CONTAINED HERE IN CONSIDERATION OF YOUR ACCEPTANCE OF SUCH 
+TERMS AND CONDITIONS.
+
+<ol>
+    <li><strong>Definitions</strong>
+    <ol type="a">
+        <li><strong>"Collective Work"</strong>
+            means a work, such as a digital archive or a software repository, in which
+            the Work in its entirety in unmodified form, along with a number of other
+            contributions, constituting separate and independent works in themselves,
+            are assembled into a collective whole. A work that constitutes a Collective
+            Work will not be considered a Derivative Work (as defined below) for the
+            purposes of this License. Software repositories are often used in order to
+            allow code to be run easily and paired with other software components. It
+            should be noted that this license specifically forbades running of the
+            software as an portion of a service. For the purpose of this license,
+            software repositories that include the work automatically as a dependency
+            from other functional components shall not be considered part of this
+            described exceptional "Collective Work" as doing so would incidentally encourage
+            violation of this license if it were so.
+            
+            <p>Any such grouping of information with the Work that provides an automated mechanism
+            for installing and running the code in combination with other software
+            shall not be included in the notion of "Collective Work" described here.
+    
+        <li><strong>"Documented Open Compilation"</strong>
+            means a form of the Work in binary digitial form as created from the source
+            code by utilizing a software compiler. Any scripts or additional metadata needed
+            to regenerate the compiled binary using industry standard tools is additionally
+            provided along with the created binary form to make it "Documented".
+            
+            <p>Proprietary automated compilation systems such as repository systems that
+            are not open source shall not be considered a part of this as they do not
+            provide sufficient documentation in order to recreate the binaries they
+            reproduce using industry standard tooling.
+            
+        <li><strong>"Derivative Work"</strong>
+            means a work based upon the Work or upon the Work and other pre-existing
+            works, such as a translation, conversion into another programming language,
+            wrapping the Work with additional code to create a library, extracting a
+            portion of code for use in another project, or any created program, code,
+            or data that uses the the Work in its creation.
+            
+            <p>The first exception to this is that a Collective Work as defined above
+            shall not be considered a Derivative Work for the purpose of this License.
+            
+            <p>The second exception to this is that a Documented Open Compilation as defined
+            above shall not be considered a Derivative Work for the purpose of this
+            License.
+            
+            <p>No other exceptions exist for the purpose of this definition.
+            
+            <p>The two documented exceptional types, Collective Work and Documented Open
+            Compilation, shall be considered acceptable alternate forms of the Work. Usage
+            of and rights granted to the Work shall be equally granted to these specific
+            alternate forms.
+            
+        <li><strong>"Licensor"</strong>
+            means the individual or entity that offers the Work under the terms of this License.
+    
+        <li><strong>"Original Author"</strong>
+            means the individual or entity who created the Work.
+        
+        <li><strong>"Work"</strong>
+            means the copyrightable work of authorship offered under the terms of this License.
+    
+        <li><strong>"You"</strong>
+            means an individual or entity exercising rights under this License who has
+            not previously violated the terms of this License with respect to the Work,
+            or who has received express permission from the Licensor to exercise rights
+            under this License despite a previous violation.
+    </ol>
+
+    <li><strong>Fair Use Rights.</strong>
+        Nothing in this license is intended to reduce, limit, or restrict any rights
+        arising from fair use, first sale or other limitations on the exclusive rights
+        of the copyright owner under copyright law or other applicable laws.
+        
+    <li><strong>License Grant.</strong>
+        Subject to the terms and conditions of this License, Licensor hereby grants
+        You a worldwide, royalty-free, non-exclusive license to exercise the rights
+        in the Work as stated below:
+            <ol type="a">
+                <li>
+                    to reproduce the Work, to incorporate the Work into one or more 
+                    Collective Works, and to reproduce the Work as incorporated in the 
+                    Collective Works;
+                <li>
+                    to distribute copies of or publicly display 
+                    the Work including as incorporated in Collective Works;
+            </ol>
+            
+        <p>The above rights may be exercised in all media and formats whether 
+        now known or hereafter devised. The above rights include the right to 
+        make such modifications as are technically necessary to exercise the 
+        rights in other media and formats, but otherwise you have no rights to 
+        make Derivative Works. All rights not expressly granted by Licensor are 
+        hereby reserved.
+
+    <li><strong>Litigation Retaliation.</strong>
+        If You institute litigation in any form against Licensor, then any
+        licenses granted to You under this License for the Work shall terminate
+        as of the date such litigation is filed.
+
+    <li><strong>Restrictions.</strong>
+        The license granted in Section 3 above is expressly made subject to
+        and limited by the following restrictions:
+
+        <ol type="a">
+            <li>
+                <b>No Functional Use.</b> The Work may not be used in any way that causes a software service, product, or program
+                to be able to function. Should removal of the work from any digital device cause any of the
+                following to the service, product, or program,
+                <ol type='I'>
+                    <li>to fail or not function in any way
+                    <li>to change in capability
+                    <li>perform better or worse
+                </ol>then the License and all granted rights shall be terminated. This shall
+                apply whether the service, product, or program is free or paid. 
+            
+            <li>
+                <b>License Reference.</b>
+                You may distribute and publicly display the Work only under the terms
+                of this License, and You
+                 must include a copy of, or the Uniform Resource Identifier for, this 
+                License with every copy of the Work You distribute or 
+                publicly display. 
+                
+                <p><b>Unchanged Conditions.</b>
+                You may not offer or impose any terms on the Work that alter or restrict the
+                 terms of this License or the recipients' exercise of the rights granted
+                 hereunder. You may not sublicense the Work. You must keep intact all 
+                notices that refer to this License and to the disclaimer of warranties. 
+                
+                <p><b>No DRM.</b>
+                You may not distribute or publicly display the Work with any technological measures that control 
+                access or use of the Work in a manner inconsistent with the terms of 
+                this License Agreement.
+                
+            <li><b>No Commercial Use.</b>
+                Redistributions may not be sold, nor may they be used in a commercial product or activity.
+                You may not exercise any of the rights granted to You in the License
+                 in any manner that is intended for or directed toward 
+                commercial advantage or monetary compensation. 
+                
+                <p><b>Free File Sharing.</b> The exchange of 
+                the Work for other copyrighted works by means of digital file-sharing or
+                 otherwise shall not be considered to be intended for or directed toward
+                 commercial advantage or monetary compensation, provided there 
+                is no payment of any monetary compensation in connection with the 
+                exchange of copyrighted works.
+                
+            <li><b>No Corporate Use.</b>
+                Distribution of the Work for any purpose internally within a corporation is expressly forbidden.
+                This includes but is not limited to:
+                <ol type='I'>
+                    <li>sharing the Work for the purpose of analysis and replication of its abilities
+                    <li>measuring performance of the code to optimize corporate algorithms
+                    <li>comparing the Work in any way against corporate algorithms
+                    <li>analysis of the Work to attempt to lay claim to methods used within
+                    <li>training of employees
+                    <li>emailing the Work to other employees for any reason
+                    <li>transferring the Work to other employees for any reason
+                </ol>
+                
+                <p>These behaviors are generally allowed in non-corporate environments. Individual
+                researchers may engage in these activities and post the results of such acitivties publicly.
+                If such researchers engage in said activities as directed by their employer than their
+                activity and results shall remain forbidden and be considered in violation of the License.
+            
+                <p>It should be noted that this restriction will likely apply to most entities engaged
+                in creating Collective Works. Allowance of Collective Works does not negate this restriction
+                and this restriction shall remain in force.
+                
+                <p>Viewing any publicly posted and licensed copy of the Work through the internet for any corporate
+                purpose shall be considered copying of the work by the company. While under employ of a company, any
+                rights otherwise granted to an individual ( such as before their employee or during non work hours )
+                shall be considered to not apply while engaged in company directed activities.
+                
+                <p>This section (5d) shall not apply to entities which Licensor has expressly and intentionally uploaded
+                the Work to for the purpose of distribution, with the exception that activities 5dI-5dV shall remain
+                restricted.
+                
+                <p>The prohibited moment of copying may be specifically noted to be when the transfer of the Work
+                goes into system memory or storage of a system owned by the prohibited entity. Various entities
+                allowing the internet itself to function, such as ISPs and the internet backbone, shall be expressly
+                allowed to cache and transfer the Work, but shall remain restricted from the behaviors described in
+                5dI-5dVII.
+                
+                <p>Review of the Work by corporate employees shall be permitted for the sole purpose of
+                consideration of Original Author for employment. The behaviors described in 5dI-5dV shall remain
+                restricted, as well as any other corporate purpose not primarily aimed at employment consideration.
+                
+            <li><b>Attribution.</b>
+                If you distribute or publicly display the Work, You must keep intact all copyright notices 
+                for the Work and give the Original Author credit reasonable to the 
+                medium or means You are utilizing by conveying the name (or pseudonym if
+                 applicable) of the Original Author if supplied; the title of the Work 
+                if supplied; and to the extent reasonably practicable, the Uniform 
+                Resource Identifier, if any, that Licensor specifies to be associated 
+                with the Work. Such credit may be implemented in 
+                any reasonable manner; provided, however, that in the case of a 
+                Collective Work, at a minimum such credit will appear where any other 
+                comparable authorship credit appears and in a manner at least as 
+                prominent as such other comparable authorship credit.
+            
+        </ol>
+    
+    <li><strong>Representations, Warranties and Disclaimer.</strong>
+        LICENSOR OFFERS THE WORK AS-IS AND MAKES NO REPRESENTATIONS OR WARRANTIES OF ANY 
+        KIND CONCERNING THE WORK, EXPRESS, IMPLIED, STATUTORY OR OTHERWISE, 
+        INCLUDING, WITHOUT LIMITATION, WARRANTIES OF TITLE, MERCHANTIBILITY, 
+        FITNESS FOR A PARTICULAR PURPOSE, NONINFRINGEMENT, OR THE ABSENCE OF 
+        LATENT OR OTHER DEFECTS, ACCURACY, OR THE PRESENCE OF ABSENCE OF ERRORS,
+        WHETHER OR NOT DISCOVERABLE.
+    
+    <li><strong>Limitation on Liability.</strong>
+        EXCEPT TO THE EXTENT 
+        REQUIRED BY APPLICABLE LAW, IN NO EVENT SHALL THE LICENSOR BE
+        LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
+        DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES;
+        LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY
+        THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING
+        NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE,
+        EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. 
+
+    <li><strong>Termination</strong>
+        <ol type="a">
+            <li>
+                The rights granted by the License will terminate automatically upon any breach
+                by You of the terms of this License. Restrictions of the License shall
+                remain in force in such event, and continued violation of the License shall be
+                prosecutable to the full extent of the law.
+            
+            <li><b>Auto termination upon distribution end</b>.
+                Licensor reserves the right to release the 
+                Work under different license terms or to stop distributing the Work at 
+                any time. The License and the rights granted shall terminate 6 months after the moment
+                when distribution by the Licensor is ceased. Such a termination shall supersede all
+                other granted rights. Redistribution during the 6 months period will not extend
+                the period, and redistribution after the 6 month period shall be deemed Copyright
+                violation. By accepting this license, You agree to periodically check to ensure
+                the Work is being distributed by Licensor so as to ensure you are aware of the
+                license having terminated.
+            
+                <p>Distribution by Licensor shall be considered to be any open unrestricted
+                sharing of the Work in a public forum, such as a download provided by the Licensor,
+                or a download of the Work from a 3rd party where the Licensor is in control
+                of the content and capable of removing it. Any available source for the Work where
+                the Licensor is incapable of ending said distribution at will shall not be considered a
+                distribution by the Licensor.
+                
+            <li><b>Intentional Termination.</b>
+                The License may be terminated in regard to You at will by the Licensor at any time and
+                for any reason allowable under law. Such a termination shall be immediate
+                upon documented receipt of notice of termination to You by Licensor. The notice
+                and its existence shall be considered strictly confidential.
+                
+                <p>No public notice of such a termination need be given by Licensor and You agree not
+                to publicize such a termination if it occurs. Forbidden publication shall include
+                any post to the internet, whether on the public world wide wide or through a
+                private forum. Forbidden publication shall also include communication of the
+                termination to any person thought of as related to 'news', through any communication
+                mechanism.
+        </ol>
+        
+    <li><strong>Miscellaneous</strong>
+        <ol type="a">
+            <li><b>Share Alike.</b>
+            Each time You distribute the Work or a 
+            Collective Work, the Licensor offers to the recipient a license to the 
+            Work on the same terms and conditions as the license granted to You 
+            under this License.
+            
+            <li><b>Auto Revision Upon Unenforcability.</b>
+            If any provision of this License is invalid or unenforceable under 
+            applicable law, it shall not affect the validity or enforceability of 
+            the remainder of the terms of this License, and without further action 
+            by the parties to this agreement, such provision shall be reformed to 
+            the minimum extent necessary to make such provision valid and 
+            enforceable.
+            
+            <li><b>Only Written Signed Exceptions.</b>
+            No term or provision of this License shall be deemed waived and no 
+            breach consented to unless such waiver or consent shall be in writing 
+            and signed by the party to be charged with such waiver or consent.
+            
+            <li><b>Complete.</b>
+            This License constitutes the entire agreement between the parties with 
+            respect to the Work licensed here. There are no understandings, 
+            agreements or representations with respect to the Work not specified 
+            here. This License may not be modified without the mutual written
+            agreement of the Licensor and You.
+        </ol>
+</ul>
+
+</div>
+
+</div>
+
+</body></html>
