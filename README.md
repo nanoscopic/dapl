@@ -1,17 +1,10 @@
-```html
-<div id="deed">
-
-<div style="display:inline-block; position: relative; left: 50%; margin-left: -100px">
     <b>DRY ARK PUBLIC LICENSE ( DAPL )</b><br>
     For code<br>
     For review<br>
     Non commercial<br>
     Non corporate
-</div>
 <br><br>
 
-<div class="text">
-<div class="fineprint" style="background:none;">
 <em>License</em>
 
 <p>THE WORK (AS DEFINED BELOW) IS PROVIDED UNDER THE TERMS OF THIS 
@@ -317,8 +310,4 @@ TERMS AND CONDITIONS.
             agreement of the Licensor and You.
         </ol>
 </ul>
-
-</div>
-
-</div>
 ```
